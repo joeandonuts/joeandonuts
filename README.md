@@ -12,5 +12,4 @@
 <a href="https://twitter.com/joeandonuts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joeandonuts" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/joeandonuts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joeandonuts" height="30" width="40" /></a>
 <a href="https://instagram.com/hismusicwaselectric" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hismusicwaselectric" height="30" width="40" /></a>
-<a href="https://www.artstation.com/joeandonuts" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg](https://www.svgrepo.com/show/305744/artstation.svg)" alt="joeandonuts" height="30" width="40" /></a>
 </p>
